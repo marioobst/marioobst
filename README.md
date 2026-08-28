@@ -42,6 +42,8 @@ Believing that communication must be resilient, transparent, and accountable, I 
 * **Honorary Judge (Ehrenamtlicher Richter)** | *Landgericht Erfurt (District Court)* – Serving in the judiciary since 2024.
 * **Contemporary Witness (Zeitzeuge) in Political Education** | *Erfurt* – Partnering with the **Stiftung Ettersberg** and the **Gedenkstätte Andreasstraße** to share historical insights for democratic education (including public engagements such as the *Tag des offenen Denkmals*).
 
+<img src="andreasstrasse.jpg" alt="Tag des offenen Denkmals in Erfurt" width="500" />
+
 ---
 
 ## 🧪 Digital Laboratory
