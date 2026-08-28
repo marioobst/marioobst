@@ -58,3 +58,11 @@ If you are looking to bring structural clarity and strategic impact to complex o
 
 * **Email:** hello@marioobst.com
 * **Photography Profile:** [pexels.com/@mario-obst](https://pexels.com)
+
+---
+
+## 📜 The Story of My Name (Mario V.W.B.R. Obst / MVWBRO)
+My full name—**Mario Volker Walter Bernhard Rosemarie Obst**—connects my lineage with unique historical milestones (including an honorary godparenthood by Walter Ulbricht in 1971 and the addition of my parents' names in 2015).
+
+<img src="zeitungsfoto.jpg" alt="Historical Newspaper Clip" width="500" />
+<img src="kaufmannskirche.jpg" alt="Vow Renewal at Kaufmannskirche" width="500" />
