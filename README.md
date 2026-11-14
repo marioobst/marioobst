@@ -27,6 +27,7 @@ All projects are private and non-commercial. They give me room to keep learning 
 
 | Project | What it is about |
 |---|---|
+| [prompt-manual.fyi](https://prompt-manual.fyi/) | A free, independent reference for working with AI. Developed through conversation, practical experiments, and learning by doing. Available in English and German. |
 | [erfurt.life](https://erfurt.life) | City history, my own photographs, and personal connections, in several languages |
 | [evolution.surf](https://evolution.surf) | Change in nature, society, and everyday life, with traceable sources |
 | [insekten.website](https://insekten.website) | The world of insects through Earth's history, topics, and guided tours |
