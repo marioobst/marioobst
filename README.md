@@ -1,70 +1,55 @@
 # Mario V.W.B.R. Obst
-**Strategy. Structure. Communication.**
 
-Welcome to my digital profile. I am a communications strategist specializing in corporate communication, digital brand management, and international communication architectures for organizations with global reach. 
+**Communication. Curiosity. Engagement.**
 
-I help complex, multi-layered organizations streamline their communication structures to ensure clarity, consistency, and measurability across borders—both internally and externally.
+I am interested in people, information, and what connects them. My background is in web design, digital communication, and international corporate communications. Today I volunteer in Erfurt and build private websites, simply out of curiosity.
 
----
-
-## 🎯 Core Expertise
-
-* **Corporate & Executive Communication:** Tailored communication frameworks for enterprises and executive leadership operating in high-stakes environments.
-* **Digital Brand & Platform Strategy:** Designing scalable digital brand identities, cross-channel architectures, and robust platform mechanics.
-* **International Communication Architecture:** Standardizing and harmonizing large-scale websites, brand structures, and digital ecosystems across multiple countries and divisions.
-* **Public & Institutional Communication:** Navigating sensitive public, institutional, and societal communication landscapes with high integrity and transparency.
+🌐 **[marioobst.com/en](https://marioobst.com/en/)** · [Deutsche Version](https://marioobst.com)
 
 ---
 
-## 📈 Professional Journey
+## Where I come from
 
-### **ALSO Group** 
-**Head of Digital Press** | *2010 – 2022*
-* Orchestrated and scaled group-wide digital corporate communications across European markets.
-* Built and managed a global corporate LinkedIn channel, driving audience growth from 1,000 to over 48,000 followers.
-* Directed communications within the regulatory context of a publicly traded enterprise.
-* Standardized international web infrastructures and cross-border corporate brand alignments.
-* Synchronized comprehensive press and public relations workflows at the corporate group level.
+- **ALSO Group**, Head of Digital Press (2010–2022): digital corporate communications across Europe, international web presences.
+- **7 layers AG**, Web & Digital Communications (1999–2010): web platforms for North America, Europe, and Asia, SEO, SEA, and analytics.
 
-### **7 layers AG**
-**Web & Digital Communications Lead** | *1999 – 2010*
-* Spearheaded early digital brand initiatives and web platforms across North America, Europe, and Asia.
-* Developed, launched, and managed multi-regional enterprise web properties.
-* Managed early-stage implementation and optimization of SEO, SEA, Google Ads, and analytics frameworks.
-* Managed cross-border trade fair marketing and multi-channel digital media production campaigns.
+I wrote my first websites myself in the 1990s. The question of how content can be presented and conveyed on the internet has stayed with me ever since.
 
----
+## Volunteering in Erfurt
 
-## ⚖️ Public Roles & Civic Engagement
+- **Honorary judge** at the Erfurt Regional Court (Landgericht Erfurt), since 2024.
+- **Volunteer educational work** with the Stiftung Ettersberg at the [Andreasstraße](https://andreasstrasse.de) Memorial and Education Centre. As a contemporary witness, I talk with groups about my experiences and the meaning of freedom.
+- **Preserving memory:** On [stasi-haft.com](https://stasi-haft.com) I document my 1989 imprisonment by the Stasi, distinguishing between my own recollection, what the files state, and historical context.
 
-Believing that communication must be resilient, transparent, and accountable, I actively contribute to institutional and educational spheres:
+## Private web projects
 
-* **Honorary Judge (Ehrenamtlicher Richter)** | *Landgericht Erfurt (District Court)* – Serving in the judiciary since 2024.
-* **Contemporary Witness (Zeitzeuge) in Political Education** | *Erfurt* – Partnering with the **Stiftung Ettersberg** and the **Gedenkstätte Andreasstraße** to share historical insights for democratic education (including public engagements such as the *Tag des offenen Denkmals*).
+All projects are private and non-commercial. They give me room to keep learning on my own. Working with AI is an important part of that, and AI-generated images are labelled on the respective sites.
 
-<img src="andreasstrasse.jpg" alt="Tag des offenen Denkmals in Erfurt" width="500" />
+| Project | What it is about |
+|---|---|
+| [erfurt.life](https://erfurt.life) | City history, my own photographs, and personal connections, in several languages |
+| [evolution.surf](https://evolution.surf) | Change in nature, society, and everyday life, with traceable sources |
+| [insekten.website](https://insekten.website) | The world of insects through Earth's history, topics, and guided tours |
+| [planeten.website](https://planeten.website) | Astronomy with interactive learning models |
+| [politik.buzz](https://politik.buzz) | A growing knowledge project on political history |
+| [mario-obst.fyi](https://mario-obst.fyi) | An open experiment in working with AI, with documented decisions |
+| [mario-aik.space](https://mario-aik.space) | A workshop for web experiments and development notes |
 
----
+## Ideas & Creative Work
 
-## 🧪 Digital Laboratory
+- 📷 [captured.observer](https://captured.observer) and [postcards.party](https://postcards.party): smartphone photography and travel pictures
+- 💭 [gedanken.party](https://gedanken.party): thought games and small shifts in perspective
+- 📰 [keine-nachrichten.de](https://keine-nachrichten.de): invented everyday news in a newspaper layout
+- 🎮 [mishmash.work](https://mishmash.work): creative coding, from small games to a tribute to the early web
+- 🏠 [obst.casa](https://obst.casa): a house full of projects, one room at a time
+- 🍎 [obst.bar](https://obst.bar) · [obst.party](https://obst.party) · [gedanken.monster](https://gedanken.monster)
 
-Aside from my corporate background, this GitHub space acts as my personal sandbox. I use it to experiment with web technologies, test automation scripts, and build functional prototypes (such as custom web layouts, templates, and digital media tools). 
+## This GitHub profile
 
-*Feel free to browse my repositories below to see what I am currently testing, building, or preserving.*
+This is where my technical experiments and templates live, for example the [Snapshot-Gallery](https://github.com/marioobst/Snapshot-Gallery) and an [Astro blog template](https://github.com/marioobst/astro-blog-starter-template). The websites above are hosted on Cloudflare.
 
----
+## Contact
 
-## ✉️ Contact
+A conversation is a good start, whether about communication, my projects, or a possible professional assignment. You will find my email address and everything else in the contact section on **[marioobst.com](https://marioobst.com/en/#kontakt)**.
 
-If you are looking to bring structural clarity and strategic impact to complex organizational communications, feel free to reach out:
-
-* **Email:** hello@marioobst.com
-* **Photography Profile:** [pexels.com/@mario-obst](https://pexels.com)
-
----
-
-## 📜 The Story of My Name (Mario V.W.B.R. Obst / MVWBRO)
-My full name—**Mario Volker Walter Bernhard Rosemarie Obst**—connects my lineage with unique historical milestones (including an honorary godparenthood by Walter Ulbricht in 1971 and the addition of my parents' names in 2015).
-
-<img src="zeitungsfoto.jpg" alt="Historical Newspaper Clip" width="500" />
-<img src="kaufmannskirche.jpg" alt="Vow Renewal at Kaufmannskirche" width="500" />
+Elsewhere online: [YouTube](https://youtube.com/@marioobst) · [Pexels](https://pexels.com/@mario-obst/) · [X](https://x.com/mvwbro/) · [MVWBRO](https://mvwbro.com/) 
