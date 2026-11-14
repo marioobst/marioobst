@@ -2,11 +2,26 @@
 
 **Communication. Curiosity. Engagement.**
 
-I am interested in people, information, and what connects them. My background is in web design, digital communication, and international corporate communications. Today I volunteer in Erfurt and build private websites, simply out of curiosity.
+I am interested in people, information, and what connects them. My background is in web design, digital communication, and international corporate communications. Today I volunteer in Erfurt and build personal websites, simply out of curiosity.
 
-🌐 **[marioobst.com/en](https://marioobst.com/en/)** · [Deutsche Version](https://marioobst.com)
+🌐 **[marioobst.com/en](https://marioobst.com/en/)** · [Über mich auf Deutsch](https://marioobst.com)
 
 ---
+
+## Personal web projects
+
+All projects are personally run and non-commercial. They give me room to keep learning on my own. Working with AI is an important part of that, and AI-generated images are labelled on the respective sites.
+
+| Project | What it is about |
+|---|---|
+| [prompt-manual.fyi](https://prompt-manual.fyi/) | A free, independent reference for working with AI. Developed through conversation, practical experiments, and learning by doing. Available in English and German. [Project documentation](https://github.com/marioobst/prompt-manual). |
+| [erfurt.life](https://erfurt.life) | City history, my own photographs, and personal connections, in several languages |
+| [evolution.surf](https://evolution.surf) | Change in nature, society, and everyday life, with traceable sources |
+| [insekten.website](https://insekten.website) | The world of insects through Earth's history, topics, and guided tours |
+| [planeten.website](https://planeten.website) | Astronomy with interactive learning models |
+| [politik.buzz](https://politik.buzz) | A growing knowledge project on political history |
+| [mario-obst.fyi](https://mario-obst.fyi) | An open experiment in working with AI, with documented decisions |
+| [mario-aik.space](https://mario-aik.space) | A workshop for web experiments and development notes |
 
 ## Where I come from
 
@@ -21,21 +36,6 @@ I wrote my first websites myself in the 1990s. The question of how content can b
 - **Volunteer educational work** with the Stiftung Ettersberg at the [Andreasstraße](https://andreasstrasse.de) Memorial and Education Centre. As a contemporary witness, I talk with groups about my experiences and the meaning of freedom.
 - **Preserving memory:** On [stasi-haft.com](https://stasi-haft.com) I document my 1989 imprisonment by the Stasi, distinguishing between my own recollection, what the files state, and historical context.
 
-## Private web projects
-
-All projects are private and non-commercial. They give me room to keep learning on my own. Working with AI is an important part of that, and AI-generated images are labelled on the respective sites.
-
-| Project | What it is about |
-|---|---|
-| [prompt-manual.fyi](https://prompt-manual.fyi/) | A free, independent reference for working with AI. Developed through conversation, practical experiments, and learning by doing. Available in English and German. |
-| [erfurt.life](https://erfurt.life) | City history, my own photographs, and personal connections, in several languages |
-| [evolution.surf](https://evolution.surf) | Change in nature, society, and everyday life, with traceable sources |
-| [insekten.website](https://insekten.website) | The world of insects through Earth's history, topics, and guided tours |
-| [planeten.website](https://planeten.website) | Astronomy with interactive learning models |
-| [politik.buzz](https://politik.buzz) | A growing knowledge project on political history |
-| [mario-obst.fyi](https://mario-obst.fyi) | An open experiment in working with AI, with documented decisions |
-| [mario-aik.space](https://mario-aik.space) | A workshop for web experiments and development notes |
-
 ## Ideas & Creative Work
 
 - 📷 [captured.observer](https://captured.observer) and [postcards.party](https://postcards.party): smartphone photography and travel pictures
@@ -47,7 +47,7 @@ All projects are private and non-commercial. They give me room to keep learning 
 
 ## This GitHub profile
 
-This is where my technical experiments and templates live, for example the [Snapshot-Gallery](https://github.com/marioobst/Snapshot-Gallery) and an [Astro blog template](https://github.com/marioobst/astro-blog-starter-template). The websites above are hosted on Cloudflare.
+This is where my technical experiments and templates live, for example the [Snapshot-Gallery](https://github.com/marioobst/Snapshot-Gallery) and an [Astro blog template](https://github.com/marioobst/astro-blog-starter-template). I also document selected project decisions and lessons learned, starting with [PROMPT MANUAL](https://github.com/marioobst/prompt-manual). The websites above are hosted on Cloudflare.
 
 ## Contact
 
