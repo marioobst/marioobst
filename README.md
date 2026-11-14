@@ -47,7 +47,7 @@ I wrote my first websites myself in the 1990s. The question of how content can b
 
 ## This GitHub profile
 
-This is where my technical experiments and templates live, for example the [Snapshot-Gallery](https://github.com/marioobst/Snapshot-Gallery) and an [Astro blog template](https://github.com/marioobst/astro-blog-starter-template). I also document selected project decisions and lessons learned, starting with [PROMPT MANUAL](https://github.com/marioobst/prompt-manual). The websites above are hosted on Cloudflare.
+This is where my technical experiments and templates live, for example an [Astro blog template](https://github.com/marioobst/astro-blog-starter-template). I also document selected project decisions and lessons learned, starting with [PROMPT MANUAL](https://github.com/marioobst/prompt-manual). The websites above are hosted on Cloudflare.
 
 ## Contact
 
